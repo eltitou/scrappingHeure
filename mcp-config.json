@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "web-scraper-to-sheets": {
+      "command": "node",
+      "args": ["build/index.js"],
+      "cwd": "c:\\Users\\trist\\projetMCP",
+      "env": {}
+    }
+  }
+}

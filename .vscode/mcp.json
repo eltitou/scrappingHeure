@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "web-scraper-to-sheets": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["C:\\Users\\trist\\projetMCP\\build\\index.js"]
+    }
+  }
+}
